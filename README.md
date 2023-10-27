@@ -1,1 +1,2 @@
 # firstgitrepositorysmit
+author-gandhi smit
